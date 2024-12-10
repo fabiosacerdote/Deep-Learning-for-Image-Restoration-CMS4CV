@@ -9,3 +9,6 @@ a vanilla U-Net model, a Fusion Model combining a U-Net with the pre-trained seg
 The notebooks provided show the architectures, the training and the predictions using each of the three models. Moreover, at the end of each, you may find a zero-shot inference 
 performed on true historical images with no colored counterpart. 
 The .npy file caches the image filepaths to speed up the running of the each notebook by about 12/15 minutes.
+
+
+![alt text](largeGanAmerican.jpg "Sample reconstruction from our GAN")
