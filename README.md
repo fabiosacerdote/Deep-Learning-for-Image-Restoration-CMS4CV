@@ -3,7 +3,7 @@ However, their lack of color limits the vividness of the original scenes. The pr
 effectively bridging the temporal divide between past and present and enhancing the images’ relevance. Nevertheless, the accurate reconstruction of original colors remains a
 significant challenge, as reliable references to the authentic hues of early photographs are often unavailable.
 This paper proposes a solution to this issue, with the aim of providing an automatic way of re-coloring historical images and reconstructing their visual quality using
-deep learning and image re-construction techniques. To reach such objectives, we compare different Computer Vision architectures and strategies:
+deep learning and image reconstruction techniques. To reach such objectives, we compare different Computer Vision architectures and strategies:
 a vanilla U-Net model, a Fusion Model combining a U-Net with the pre-trained segmentation model DeepLabV3+, and a GAN architecture implementing the U-Net as generator.
 
 The notebooks provided show the architectures, the training and the predictions using each of the three models. Moreover, at the end of each, you may find a zero-shot inference 
